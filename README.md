@@ -12,6 +12,7 @@ Welcome to my central hub for Python logic practice! This repository is dedicate
 
 | Project Name | Description | Key Concepts Learned | Link |
 | :--- | :--- | :--- | :--- |
+| **🧮 Interactive Simple Calculator** | A terminal calculator that executes arithmetic operations with zero-division protection. | Operators, Input/Output, If-Else Conditionals | [View Code](./python_projects/simple_calculator.py) |
 
 ---
 
